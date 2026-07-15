@@ -6,7 +6,7 @@
         "cities": [
           {
             "name": "Sydney, Australia",
-            "imageUrl": "enter_your_image_for_sydney.jpg",
+            "imageUrl": "https://www.google.com/search?q=Sydney%2C+Australia+pic&rlz=1C1YTUH_en-GBPK1077PK1077&oq=Sydney%2C+Australia+pic&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCggHEAAYChgWGB4yCAgIEAAYFhgeMg0ICRAAGIYDGIAEGIoF0gEJMTAwNDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#sv=CAMSNhowKg4tTVU0azU3OGVmTW1XTTIOLU1VNGs1NzhlZk1tV006DjY2NHdIeEhScGF0dXlNIAQ4ABgHIPO9jroIOgBKCBABGAEgASgB",
             "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
           },
           {
